@@ -1,0 +1,7 @@
+// + SOMA
+// - SUBTRAÇÃO
+// * MULTIPLICAÇÃO
+// / DIVISÃO
+
+// % RESTO DA DIVISÃO
+// ** ELEVADO
