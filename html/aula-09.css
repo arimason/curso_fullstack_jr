@@ -1,0 +1,17 @@
+main{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.div_test {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+}
+
+#novoid {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
