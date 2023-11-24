@@ -1,0 +1,15 @@
+body {
+    background-color: blue;
+    margin: 0px;
+}
+
+main {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+/* 50% (do pai) também é um valor aceitável e '1em' é um número vinculado a fonte, 10vw(referente a tela, nao do pai) */
+    margin-left: 30px;
+    /* margin: toppx direitapx embaixopx esquerdapx vai em sentido horário */
+    /* margin: top/downpx  left/rightpx - com dois valores ele considera assim */
+    /* margin: 20px auto - ele se adapta no left/right*/
+}

@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+}
+
+p {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    /* o padding soma ao tamhho definido, por exemplo, agora temos 216 de altura e 216 de largura */
+    padding: 8px; 
+    /* assim como p padding o border também soma ao tamanho definido */
+    border: 10px solid green ;
+}
