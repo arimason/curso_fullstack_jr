@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+
+main {
+    background-color: pink;
+    /* width: 50%;
+    height: 50px; */
+}
+
+.abc {
+    background-color: brown;
+    width: 50%;
+    height: 50px;
+    margin: 0px auto;
+
+}
+
+.def {
+    background-color: aqua;
+    width: 50%;
+    height: 50px;
+
+}
+
+.ghi {
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 50px;
+    position: absolute;
+/* o absolute e o left e top, faz com que mesmo ele sendo filho da div ABC ele ocupe lugar distinto da "caixa" abc */
+    left: 0px;
+    top: 0px; 
+
+}

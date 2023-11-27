@@ -1,0 +1,49 @@
+.stretch {
+    align-content: stretch;
+}
+
+.center {
+    align-content: center;
+}
+
+.flex-start {
+    align-content: flex-start;
+}
+
+.flex-end {
+    align-content: flex-end;
+}
+
+.baseline {
+    align-content: baseline;
+}
+
+.space-between{
+    align-content: space-between;
+}
+
+.space-around{
+    align-content: space-around;
+}
+
+.column {
+    flex-direction: column;
+}
+
+
+.container {
+    width: 400px;
+    height: 300px;
+    margin: 8px auto;
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.item{
+    background-color: aqua;
+    margin: 8px;
+    flex: 1;
+    font-size: 18px;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    /* flex-wrap: nowrap; nao ajusta */
+    flex-wrap: wrap; 
+}
+
+.flex-item-1 {
+    flex: 1;
+}
+
+.container {
+    /* display: block; */
+    padding: 8px;
+    margin: auto;
+    width: 500px;
+}
+
+.item {
+    background-color: aqua;
+    color: black;
+    font-size: 16px;
+    margin: 8px;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+
+.menu-left {
+    height: 100vh;
+    background-color: pink;
+    width: 200px;
+    /* com o float define que a tela "começa aqui", ja com o absolute, os outros elementos funcionam independente*/
+    float: left;
+}
+
+.menu-right {
+    height: 100vh;
+    background-color: blue;
+    width: 300px;
+}
